@@ -1,6 +1,7 @@
 {
   "name": "dallolmart-client",
   "version": "0.1.0",
+  "description": "build: react-scripts build",
   "private": false,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -26,10 +27,11 @@
     "timeago.js": "^4.0.2",
     "web-vitals": "^2.1.4"
   },
+  
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
+    "build": "npm client:install && npm client:build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
