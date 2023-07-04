@@ -1,4 +1,4 @@
-# An Elegant E-commerce built with React,styled components and Material UI.
+# An e-commerce built with React,styled components and Material UI.
 
 This is a full stack e-commerce. Inorder to run the code which is kept in to two separate folders Namely `client` and `server`; you will need to navigate through both folders as follows:\
 Front-end: `cd client` then hit `npm start` on your terminal\
