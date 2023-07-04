@@ -12,7 +12,7 @@ Then you will need to create your own `.env`file and pass the folloing variables
 `STRIPE_SEC_KEY= ` Your stripe payment secret key.\
 `JWT_EMAIL_ACT_SEC_KEY= ` To enable the automatic emailing service.
 
-Check out the [dallolmart e-commerce](https://mikacodes.netlify.app/) deployed on Cyclic.
+Check out the [dallolmart e-commerce](https://dallolmart.cyclic.app) deployed on Cyclic.
 
 ## Technologies
 
